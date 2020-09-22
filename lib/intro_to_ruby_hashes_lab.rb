@@ -1,6 +1,5 @@
 def new_hash
   h = Hash.new
-  h
   # return an empty hash
 end
 
